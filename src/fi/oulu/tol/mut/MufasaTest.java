@@ -1,4 +1,4 @@
-
+package fi.oulu.tol.mut;
 import static org.junit.Assert.*;
 
 import java.text.ParseException;
